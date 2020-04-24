@@ -88,7 +88,7 @@ body {
   max-width: 195px;
   max-height: 123px;
 
-  margin-top: 93px;
+  margin-top: 164px;
 }
 
 .text-block {
@@ -108,13 +108,13 @@ margin-bottom: 15px;
 
 .header-text {
   text-transform: uppercase;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 900;
   letter-spacing: 3px;
 }
 
 .main-text {
-  font-size: 21px;
+  font-size: 24px;
   letter-spacing: 4px;
 }
 
@@ -130,7 +130,7 @@ margin-bottom: 15px;
 
 .button {
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
 
   padding: 10px 35px;
